@@ -1,6 +1,4 @@
 # A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics
-
-Xianchao Xiu, Yuhan Zhang, Yufei Guo, Xiaode Liu, Ying Yang
 ---------------------
 
 ![alt text](./figure.png)
@@ -19,6 +17,7 @@ Citation
       year      = {2024},
       publisher = {IEEE}
      }
+
 
 How to use it?
 ---------------------
