@@ -1,9 +1,5 @@
 # A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics (IEEE TIM, 2024)
 
-### Basic Idea
-
-![alt text](./figure.png)
-
 ### Quick Run
 
 Directly run python file to train models using the dataset of ship.
