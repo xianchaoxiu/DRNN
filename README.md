@@ -4,9 +4,9 @@
 
 ![alt text](./figure.png)
 
-### How to use it?
+### Quick run
 
-Directly run python file to train models using dataset of ship.
+Directly run python file to train models using the dataset of ship.
 
 
 ### Citation
