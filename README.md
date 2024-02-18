@@ -1,18 +1,17 @@
 # A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics
 
-Basic idea
----------------------
+This is an implement of methods in "Learning Deep Sparse Regularizers with Applications to Multi-View Clustering and Semi-Supervised Classification" that published in IEEE Trans. Pattern Analysis and Machine Intelligence.
+
+### Basic idea
 
 ![alt text](./figure.png)
 
-How to use it?
----------------------
+### How to use it?
 
 Directly run python file to train models using dataset of ship.
 
 
-Citation
----------------------
+### Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
