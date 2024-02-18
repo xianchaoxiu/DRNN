@@ -2,7 +2,7 @@
 
 ### Quick Run
 
-Directly run python file to train models using the dataset of ship.
+Directly run demo.py to train models using the dataset of ship.
 
 
 ### Citation
