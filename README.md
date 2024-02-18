@@ -1,4 +1,6 @@
 # A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics
+
+Basic idea
 ---------------------
 
 ![alt text](./figure.png)
