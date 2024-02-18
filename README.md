@@ -1,4 +1,4 @@
-# A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics (IEEE TIM, 2024)
+# Dual Recurrent Neural Network (DRNN)
 
 ### Quick Run
 
