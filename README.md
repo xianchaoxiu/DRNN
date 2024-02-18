@@ -3,6 +3,12 @@
 
 ![alt text](./figure.png)
 
+How to use it?
+---------------------
+
+Directly run python file to train models using dataset of ship.
+
+
 Citation
 ---------------------
 
@@ -19,7 +25,4 @@ Citation
      }
 
 
-How to use it?
----------------------
 
-Directly run python file to train models using dataset of ship.
