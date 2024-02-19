@@ -1,7 +1,7 @@
 # Dual Recurrent Neural Network (DRNN)
 
 
-The code in this toolbox implements the "A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics". More specifically, it is detailed as follows.
+The code in this toolbox implements the "A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics". 
 
 
 ### Quick Testing
