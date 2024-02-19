@@ -1,21 +1,26 @@
 # Dual Recurrent Neural Network (DRNN)
 
-### Quick Run
+
+The code in this toolbox implements the "A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics". More specifically, it is detailed as follows.
+
+![alt text](./figure.png)
+
+### Quick Testing
 
 Directly run demo.py to train models using the dataset of ship.
 
-
 ### Citation
+Please give credit to this paper if you use the code for your research.
 
-     @article{hong2017learning,
-      title     = {A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics},
-      author    = {X. Xiu and Y. Zhang and Y. Guo and X. Liu and Y. Yang},
-      journal   = {IEEE Transactions on Instrumentation and Measurement},
-      volume    = {73},
-      pages     = {1--10},
-      year      = {2024},
-      publisher = {IEEE}
-     }
+X. Xiu, Y. Zhang, Y. Guo, X. Liu, Y. Yang, A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics, 2024.
+
+
+
+
+
+
+
+
 
 
 
