@@ -6,7 +6,7 @@ The code in this toolbox implements the "A New End-to-End Monitoring Framework f
 
 ### Quick Testing
 
-Directly run demo.py to train models using the dataset of ship.
+Directly run demo.
 
 ### Citation
 Please give credit to this paper if this code is useful and helpful for your research.
