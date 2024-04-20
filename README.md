@@ -7,7 +7,7 @@ The code in this toolbox implements ["A New End-to-End Monitoring Framework for 
 Directly run demo.py for reproduction.
 
 ### Citation
-Please give credit to this paper if this code is useful and helpful for your research.
+Please give credits to this paper if this code is useful and helpful for your research.
 
      @article{sun2023learning,
       title     = {A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics},
