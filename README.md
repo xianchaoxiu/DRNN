@@ -1,5 +1,5 @@
 # DRNN
-The code in this toolbox implements ["A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics"](https://ieeexplore.ieee.org/abstract/document/10464356) by <i>X. Xiu, Y. Zhang, Y. Guo, X. Liu, Y. Yang<i>.
+The code in this toolbox implements ["A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics"](https://ieeexplore.ieee.org/abstract/document/10464356) by <i>X. Xiu, Y. Zhang, Y. Guo, X. Liu, Y. Yang</i>.
 
 
 
