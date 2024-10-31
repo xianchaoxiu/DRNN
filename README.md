@@ -22,9 +22,6 @@ Please give credits to this paper if this code is useful and helpful for your re
      }
 
 
-### Contact 
-Please feel free to contact xcxiu@shu.edu.cn if you have any questions.
-
 
 
 
